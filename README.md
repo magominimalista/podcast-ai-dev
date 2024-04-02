@@ -2,7 +2,7 @@
 
 Projeto com o objetivo de gerar um podcast digital com as facilidades das ferramentas de IA.
 
-Link: https://soundcloud.com/mago-minimalista/hexatech-microservicos-vs-monolitico?si=8527744d93e24193a073362456949f1c&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
+Link: https://soundcloud.com/mago-minimalista/hexatech-microservicos-vs-monolitico
 
 ---
 
